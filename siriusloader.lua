@@ -6,6 +6,6 @@ else
 	local Notification = loadstring(game:HttpGet("https://api.irisapp.ca/Scripts/IrisBetterNotifications.lua"))()
 
 spawn(function()
-  Notification.Notify("Sirius Hub", "Game not supported!", "rbxassetid://4914902889");
+  Notification.Notify("Sirius Hub", "Game not supported!", "rbxassetid://6975662939");
 end)
 end
